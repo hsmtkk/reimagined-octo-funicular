@@ -2,6 +2,6 @@
     <v-app>
         <NavDrawer />
         <AppBar />
-        <Location />
+        <AboutLocations />
     </v-app>
 </template>

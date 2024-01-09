@@ -2,6 +2,6 @@
     <v-app>
         <NavDrawer />
         <AppBar />
-        <Delivery />
+        <AboutDelivery />
     </v-app>
 </template>

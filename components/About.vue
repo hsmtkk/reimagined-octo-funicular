@@ -9,13 +9,13 @@
             <h3>Click on the links below for more info</h3>
             <v-list>
                 <v-list-item>
-                    <NuxtLink v-bind:to="{ name: 'history' }">Our history</NuxtLink>
+                    <NuxtLink v-bind:to="{ name: 'about-history' }">Our history</NuxtLink>
                 </v-list-item>
                 <v-list-item>
-                    <NuxtLink v-bind:to="{ name: 'delivery' }">Delivery</NuxtLink>
+                    <NuxtLink v-bind:to="{ name: 'about-delivery' }">Delivery</NuxtLink>
                 </v-list-item>
                 <v-list-item>
-                    <NuxtLink v-bind:to="{ name: 'location' }">Locations</NuxtLink>
+                    <NuxtLink v-bind:to="{ name: 'about-locations' }">Locations</NuxtLink>
                 </v-list-item>
             </v-list>
         </v-container>

@@ -2,6 +2,6 @@
     <v-app>
         <NavDrawer />
         <AppBar />
-        <History />
+        <AboutHistory />
     </v-app>
 </template>
